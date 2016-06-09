@@ -1,0 +1,11 @@
+Z:\TP4\TP4IHM\bin\Debug\TP4IHM.exe.config
+Z:\TP4\TP4IHM\bin\Debug\TP4IHM.exe
+Z:\TP4\TP4IHM\bin\Debug\TP4IHM.pdb
+Z:\TP4\TP4IHM\bin\Debug\TP4.exe
+Z:\TP4\TP4IHM\bin\Debug\TP4.pdb
+Z:\TP4\TP4IHM\obj\Debug\TP4IHM.csprojResolveAssemblyReference.cache
+Z:\TP4\TP4IHM\obj\Debug\TP4IHM.Fenetre.resources
+Z:\TP4\TP4IHM\obj\Debug\TP4IHM.Properties.Resources.resources
+Z:\TP4\TP4IHM\obj\Debug\TP4IHM.csproj.GenerateResource.Cache
+Z:\TP4\TP4IHM\obj\Debug\TP4IHM.exe
+Z:\TP4\TP4IHM\obj\Debug\TP4IHM.pdb

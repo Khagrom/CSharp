@@ -1,0 +1,14 @@
+C:\Users\p1513113\Desktop\TP5\TP5\TP5\bin\x64\Debug\TP5.exe.config
+C:\Users\p1513113\Desktop\TP5\TP5\TP5\bin\x64\Debug\TP5.exe
+C:\Users\p1513113\Desktop\TP5\TP5\TP5\bin\x64\Debug\TP5.pdb
+C:\Users\p1513113\Desktop\TP5\TP5\TP5\bin\x64\Debug\Metier.dll
+C:\Users\p1513113\Desktop\TP5\TP5\TP5\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\p1513113\Desktop\TP5\TP5\TP5\bin\x64\Debug\Persistance.dll
+C:\Users\p1513113\Desktop\TP5\TP5\TP5\bin\x64\Debug\Metier.pdb
+C:\Users\p1513113\Desktop\TP5\TP5\TP5\bin\x64\Debug\Persistance.pdb
+C:\Users\p1513113\Desktop\TP5\TP5\TP5\obj\x64\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\p1513113\Desktop\TP5\TP5\TP5\obj\x64\Debug\TP5.FenetrePrincipale.resources
+C:\Users\p1513113\Desktop\TP5\TP5\TP5\obj\x64\Debug\TP5.Properties.Resources.resources
+C:\Users\p1513113\Desktop\TP5\TP5\TP5\obj\x64\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\p1513113\Desktop\TP5\TP5\TP5\obj\x64\Debug\TP5.exe
+C:\Users\p1513113\Desktop\TP5\TP5\TP5\obj\x64\Debug\TP5.pdb

@@ -1,0 +1,6 @@
+Z:\TP5\TP5\Metier\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+Z:\TP5\TP5\Metier\obj\Debug\Metier.pdb
+C:\Users\p1513113\Desktop\TP5\TP5\Metier\bin\Debug\Metier.dll
+C:\Users\p1513113\Desktop\TP5\TP5\Metier\bin\Debug\Metier.pdb
+C:\Users\p1513113\Desktop\TP5\TP5\Metier\obj\Debug\Metier.dll
+C:\Users\p1513113\Desktop\TP5\TP5\Metier\obj\Debug\Metier.pdb

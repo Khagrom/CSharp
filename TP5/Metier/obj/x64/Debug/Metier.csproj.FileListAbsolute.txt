@@ -1,0 +1,4 @@
+C:\Users\p1513113\Desktop\TP5\TP5\Metier\bin\x64\Debug\Metier.dll
+C:\Users\p1513113\Desktop\TP5\TP5\Metier\bin\x64\Debug\Metier.pdb
+C:\Users\p1513113\Desktop\TP5\TP5\Metier\obj\x64\Debug\Metier.dll
+C:\Users\p1513113\Desktop\TP5\TP5\Metier\obj\x64\Debug\Metier.pdb

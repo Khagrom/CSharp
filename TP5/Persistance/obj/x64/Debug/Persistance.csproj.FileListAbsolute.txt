@@ -1,0 +1,8 @@
+C:\Users\p1513113\Desktop\TP5\TP5\Persistance\bin\x64\Debug\Persistance.dll
+C:\Users\p1513113\Desktop\TP5\TP5\Persistance\bin\x64\Debug\Persistance.pdb
+C:\Users\p1513113\Desktop\TP5\TP5\Persistance\bin\x64\Debug\Metier.dll
+C:\Users\p1513113\Desktop\TP5\TP5\Persistance\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\p1513113\Desktop\TP5\TP5\Persistance\bin\x64\Debug\Metier.pdb
+C:\Users\p1513113\Desktop\TP5\TP5\Persistance\obj\x64\Debug\Persistance.csprojResolveAssemblyReference.cache
+C:\Users\p1513113\Desktop\TP5\TP5\Persistance\obj\x64\Debug\Persistance.dll
+C:\Users\p1513113\Desktop\TP5\TP5\Persistance\obj\x64\Debug\Persistance.pdb

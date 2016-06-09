@@ -1,0 +1,4 @@
+C:\Trav_C\TP3\TP3\bin\Debug\TP3.exe
+C:\Trav_C\TP3\TP3\bin\Debug\TP3.pdb
+C:\Trav_C\TP3\TP3\obj\Debug\TP3.exe
+C:\Trav_C\TP3\TP3\obj\Debug\TP3.pdb
