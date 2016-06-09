@@ -1,0 +1,5 @@
+C:\Trav_C\TP2\TP2\bin\Debug\TP2.exe
+C:\Trav_C\TP2\TP2\bin\Debug\TP2.pdb
+C:\Trav_C\TP2\TP2\obj\Debug\TP2.csprojResolveAssemblyReference.cache
+C:\Trav_C\TP2\TP2\obj\Debug\TP2.exe
+C:\Trav_C\TP2\TP2\obj\Debug\TP2.pdb

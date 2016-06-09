@@ -1,0 +1,4 @@
+C:\Temp\TP1\TP1\bin\Debug\TP1.exe
+C:\Temp\TP1\TP1\bin\Debug\TP1.pdb
+C:\Temp\TP1\TP1\obj\Debug\TP1.exe
+C:\Temp\TP1\TP1\obj\Debug\TP1.pdb

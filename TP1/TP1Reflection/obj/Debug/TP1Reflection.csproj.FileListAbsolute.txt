@@ -1,0 +1,4 @@
+C:\Temp\TP1\TP1Reflection\bin\Debug\TP1Reflection.exe
+C:\Temp\TP1\TP1Reflection\bin\Debug\TP1Reflection.pdb
+C:\Temp\TP1\TP1Reflection\obj\Debug\TP1Reflection.exe
+C:\Temp\TP1\TP1Reflection\obj\Debug\TP1Reflection.pdb
